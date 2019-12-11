@@ -14,7 +14,7 @@ Data is matrix that represents the business of a website.
 The site has a landing home page, a Frequently Asked Questions (FAQ) page, a product page (where it lists the for sale products), and then pages for the two products the business offers. Each product can only be purchased from the product page.
 Each row lists the connection probability between pages.
 
-![GitHub Logo](/Desktop/data.png)
+![GitHub Logo](/Users/shrutishakhla/Desktop/data.png)
 Format: ![Alt Text](url)
 ￼
  
