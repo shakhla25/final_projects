@@ -15,7 +15,7 @@ The site has a landing home page, a Frequently Asked Questions (FAQ) page, a pro
 Each row lists the connection probability between pages.
 
 
-![Alt text](/Users/shrutishakhla/Desktop/data.png)
+![Alt text](/data.png)
  
 
 Constraints:
