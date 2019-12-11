@@ -29,4 +29,7 @@ Constraints:
 Simulation is no of customers visiting the website and actions when visiting the website
 Random variables are probabilities of different webpages. Each page is one random variable
 
+Presentation Link:
+https://www.youtube.com/watch?v=rHPASTb58F0
+
 
