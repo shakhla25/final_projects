@@ -21,7 +21,9 @@ Each row lists the connection probability between pages.
 Constraints:
 
 1	simulation ends after purchase1and purchase 2
+
 2	A client is assumed not to go anywhere else on the internet
+
 3	all the random variables must be <1
 
 Simulation is no of customers visiting the website and actions when visiting the website
